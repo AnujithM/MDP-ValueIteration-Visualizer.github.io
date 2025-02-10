@@ -1,5 +1,6 @@
 # MDP-ValueIteration-Visualizer
 ![C#](https://img.shields.io/badge/C%23-.NET%20Application-239120?style=flat-square&logo=csharp) ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2%2B-purple?style=flat-square&logo=dotnet) ![Grid Navigation](https://img.shields.io/badge/Grid--Based%20Navigation-Enabled-green?style=flat-square)  ![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey?style=flat-square)
+
 This application implements a **Markov Decision Process (MDP)** using the **Value Iteration** algorithm to determine optimal policies for navigating a grid-based environment with rewards and obstacles. It provides a visual interface to display state utilities, policy paths, and dynamic updates based on user-defined goals and constraints. Users can define sources, destinations, and obstacles, adjust transition probabilities, and visualize how the agent learns to find the optimal path.
 
 ## 🚀 Requirements
